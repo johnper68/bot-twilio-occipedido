@@ -6,9 +6,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@bot-whatsapp/bot": "^1.0.0",
-    "@bot-whatsapp/provider-twilio": "^1.0.0",
-    "@bot-whatsapp/database-mock": "^1.0.0",
+    "@bot-whatsapp/bot": "^0.33.7",
+    "@bot-whatsapp/provider-twilio": "^0.33.7",
+    "@bot-whatsapp/database-mock": "^0.33.7",
     "axios": "^1.6.7"
   }
 }
