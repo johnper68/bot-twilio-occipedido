@@ -1,14 +1,14 @@
 {
   "name": "bot-twilio-occipedido",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "@bot-whatsapp/bot": "https://github.com/codigoencasa/bot-whatsapp.git",
-    "@bot-whatsapp/provider-twilio": "https://github.com/codigoencasa/provider-twilio.git",
-    "@bot-whatsapp/database-mock": "https://github.com/codigoencasa/database-mock.git",
+    "@bot-whatsapp/bot": "latest",
+    "@bot-whatsapp/provider-twilio": "latest",
+    "@bot-whatsapp/database-mock": "latest",
     "axios": "^1.6.7"
   }
 }
