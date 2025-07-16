@@ -6,9 +6,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@bot-whatsapp/bot": "github:codigoencasa/bot-whatsapp#main",
-    "@bot-whatsapp/provider-twilio": "github:codigoencasa/provider-twilio#main",
-    "@bot-whatsapp/database-mock": "github:codigoencasa/database-mock#main",
+    "@bot-whatsapp/bot": "https://github.com/codigoencasa/bot-whatsapp.git",
+    "@bot-whatsapp/provider-twilio": "https://github.com/codigoencasa/provider-twilio.git",
+    "@bot-whatsapp/database-mock": "https://github.com/codigoencasa/database-mock.git",
     "axios": "^1.6.7"
   }
 }
