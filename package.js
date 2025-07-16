@@ -1,13 +1,14 @@
 {
   "name": "bot-twilio-occipedido",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "axios": "^1.6.7",
-    "body-parser": "^1.20.2",
-    "express": "^4.19.2"
+    "@bot-whatsapp/bot": "^1.0.0",
+    "@bot-whatsapp/provider:twilio": "^1.0.0",
+    "@bot-whatsapp/database:mock": "^1.0.0",
+    "axios": "^1.6.7"
   }
 }
