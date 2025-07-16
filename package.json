@@ -7,8 +7,8 @@
   },
   "dependencies": {
     "@bot-whatsapp/bot": "^1.0.0",
-    "@bot-whatsapp/provider:twilio": "^1.0.0",
-    "@bot-whatsapp/database:mock": "^1.0.0",
+    "@bot-whatsapp/provider-twilio": "^1.0.0",
+    "@bot-whatsapp/database-mock": "^1.0.0",
     "axios": "^1.6.7"
   }
 }
