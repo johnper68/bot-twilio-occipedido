@@ -8,7 +8,7 @@
   "dependencies": {
     "@bot-whatsapp/bot": "latest",
     "@bot-whatsapp/provider-twilio": "latest",
-    "@bot-whatsapp/database-mock": "latest",
+    "@bot-whatsapp/database": "git+https://github.com/codigoencasa/database-mock.git",
     "axios": "^1.6.7"
   }
 }
